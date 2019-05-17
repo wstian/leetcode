@@ -3,10 +3,10 @@ package main
 import "testing"
 
 func TestDistributeCoins(t *testing.T) {
-	root := CoinTreeNode{
+	root := TreeNode{
 		Val: 3,
-		Left: &CoinTreeNode{0, nil, nil},
-		Right: &CoinTreeNode{0, nil, nil},
+		Left: &TreeNode{0, nil, nil},
+		Right: &TreeNode{0, nil, nil},
 	}
 	result := distributeCoins(&root)
 	if  result != 2 {
