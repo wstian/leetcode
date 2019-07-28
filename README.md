@@ -9,6 +9,7 @@ follow [haoel/leetcode](https://github.com/haoel/leetcode)
 | #    | Title | Solution | Difficulty |
 |------| ----- | -------- | ---------- |
 |1029  |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/submissions/)|[golang](./algorithm/golang/two_city_scheduling.go)|easy|
+|1028  |[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[golang](./algorithm/golang/recover_from_preorder.go)|hard|
 |991   |[Broken Calculator](https://leetcode.com/problems/broken-calculator/submissions/)|[golang](./algorithm/golang/broken_calculator.go)|medium|
 |990   |[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[golang](./algorithm/golang/equations_possible.go)|medium|
 |984   |[String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/submissions/)|[golang](./algorithm/golang/string_without_3a_3b.go), [python](./algorithm/python/string_without_3a_3b.py)|Easy|
