@@ -20,9 +20,14 @@ class Solution:
 
 if __name__ == '__main__':
     cases = [
-        (1, 2, "bba"),
-        (4, 1, "aabaa"),
+        (
+            (1, 2),
+            "bba",
+        ),
+        (
+            (4, 1),
+            "aabaa",
+        ),
     ]
-    for c in cases:
-        result = Solution().strWithout3a3b(c[0], c[1])
-        assert result == c[2], '%s, got: %s' % (c, result)
+    from test_utils import run_test_cases
+    run_test_cases(Solution, Solution.strWithout3a3b, cases)
