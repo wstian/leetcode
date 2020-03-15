@@ -8,6 +8,7 @@ follow [haoel/leetcode](https://github.com/haoel/leetcode)
 
 | #    | Title | Solution | Difficulty |
 |------| ----- | -------- | ---------- |
+|1140  |[stone-game-ii](https://leetcode.com/problems/stone-game-ii/)|[python](./algorithm/python/stone-game-ii.py)|medium|
 |1029  |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/submissions/)|[golang](./algorithm/golang/two_city_scheduling.go)|easy|
 |1028  |[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[golang](./algorithm/golang/recover_from_preorder.go)|hard|
 |991   |[Broken Calculator](https://leetcode.com/problems/broken-calculator/submissions/)|[golang](./algorithm/golang/broken_calculator.go)|medium|
