@@ -37,4 +37,4 @@ if __name__ == '__main__':
         ),
     ]
     from test_utils import run_test_cases
-    run_test_cases(Solution, Solution.maxAreaOfIsland, cases)
+    run_test_cases(Solution, cases)
